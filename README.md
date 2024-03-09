@@ -1,4 +1,4 @@
-# DBMS-Netflix
+# DBMS-DataFlix
 
 ## Project Selection
 Our project, titled "DataFlix," was selected based on its relevance to the current industry trends and the team's collective interest in exploring the dynamics of data management for streaming services. Considerations included the potential for gaining insights into user behavior, optimizing streaming performance, and enhancing overall user satisfaction.
